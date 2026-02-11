@@ -94,23 +94,17 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p>
-<img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=dilanderegozu&show_icons=true&locale=en&layout=compact&theme=radical" 
-/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanderegozu&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanderegozu&layout=compact&theme=radical" height="165"/>
 </p>
 
-<p>
-<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=dilanderegozu&show_icons=true&locale=en&theme=radical" 
-/>
+<h2>🌈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilanderegozu&theme=react-dark"/>
 </p>
 
----
-
-### 🌈 Contribution Graph
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
