@@ -91,6 +91,28 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
+<a href="https://portal.azure.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.prisma.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
