@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://nestjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+<img src="https://www.svgrepo.com/svg/373872/nestjs" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank">
