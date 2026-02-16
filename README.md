@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%"/>
+  <img src="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Dilan Deregözü</h1>
