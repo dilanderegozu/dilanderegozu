@@ -10,7 +10,7 @@
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2"/></a>
+  <a href="https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://img.magnific.com/premium-vektor/linkedin-uygulama-ikonu-dunyanin-en-buyuk-profesyonel-agi-sosyal-ag-isler-ve-kariyerler_277909-476.jpg)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dilan.deregizu@gmail.com"><img width="42px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
