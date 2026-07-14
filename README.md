@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/dilanderegozu">
-    <img src="https://github.com/dilanderegozu.png" width="150" style="border-radius: 50%;" alt="Dilan Deregözü" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
