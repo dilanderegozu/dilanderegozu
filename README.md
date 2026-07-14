@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/dilanderegozu">
     <img src="https://github.com/dilanderegozu.png" width="150" style="border-radius: 50%;" alt="Dilan Deregözü" /></a>
@@ -11,11 +10,11 @@
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:dilan.deregizu@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/BFxDXqO.png"/></a>
+  <a href="mailto:dilan.deregizu@gmail.com"><img width="42px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/dilanderegozu"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/eXKtaC1.png"/></a>
+  <a href="https://github.com/dilanderegozu"><img width="42px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF"/></a>
 </p>
 
 <br/>
@@ -24,9 +23,9 @@
 <p align="center">
   <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=dilanderegozu&label=Profile%20Views&color=512BD4&style=for-the-badge"/>
   <a href="https://github.com/dilanderegozu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dilanderegozu?color=512BD4&style=for-the-badge&labelColor=3D1F82&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/dilanderegozu?color=512BD4&style=for-the-badge&labelColor=3D1F82"/></a>
   <a href="https://github.com/dilanderegozu?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/dilanderegozu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/dilanderegozu?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Follow&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -147,14 +146,14 @@
 
   <h3>💻 GitHub Profile Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=dilanderegozu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=512BD4&icon_color=8676F0" height="192px"/></a>
+    <img alt="Dilan's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dilanderegozu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=512BD4&icon_color=8676F0" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Dilan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanderegozu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=512BD4&icon_color=8676F0" height="192px"/></a>
+    <img alt="Dilan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dilanderegozu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=512BD4&icon_color=8676F0" height="192px"/></a>
   <br/>
 
   <h3>🔥 Streak Stats</h3>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak stats" alt="Dilan's streak" src="https://streak-stats.demolab.com/?user=dilanderegozu&theme=react&hide_border=true&background=1F222E&ring=512BD4&fire=512BD4&currStreakLabel=512BD4"/></a>
+    <img title="Streak stats" alt="Dilan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=dilanderegozu&theme=react&hide_border=true&background=1F222E&ring=512BD4&fire=512BD4&currStreakLabel=512BD4"/></a>
 
   <h3>🌈 Contribution Graph</h3>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
