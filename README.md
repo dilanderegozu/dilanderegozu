@@ -1,179 +1,383 @@
+````markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dilan+%F0%9F%91%8B;.NET+Backend+Developer;ASP.NET+Core+%7C+C%23+%7C+EF+Core;Building+scalable%2C+clean+architecture+APIs" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=220&section=header&text=Dilan%20Dereg%C3%B6z%C3%BC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<br/>
+# 👋 Hi, I'm Dilan Deregözü
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dilanderegozu&label=Profile%20Views&color=512BD4&style=flat-square)](https://github.com/dilanderegozu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dilan.deregizu@gmail.com)
+### 💙 ASP.NET Core Backend Developer
+
+Building scalable, secure and enterprise-grade applications with the Microsoft technology stack.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=850&lines=ASP.NET+Core+Backend+Developer;Building+Enterprise+.NET+Applications;Entity+Framework+Core+%7C+SQL+Server+%7C+REST+APIs;Clean+Architecture+%7C+SOLID+Principles;Always+Learning+%F0%9F%9A%80" />
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dilanderegozu&label=Profile%20Views&color=0F62FE&style=for-the-badge)](https://github.com/dilanderegozu)
+[![GitHub followers](https://img.shields.io/github/followers/dilanderegozu?logo=github&style=for-the-badge)](https://github.com/dilanderegozu)
+[![GitHub stars](https://img.shields.io/github/stars/dilanderegozu?affiliations=OWNER&style=for-the-badge)](https://github.com/dilanderegozu)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilan.deregizu@gmail.com)
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+# 💙 About Me
 
 ```csharp
-public class Dilan : BackendDeveloper
+public class Dilan
 {
-    public string Name => "Dilan Deregözü";
-    public string Location => "Turkey 🇹🇷";
-    public string[] PrimaryStack => new[] { "ASP.NET Core", "C#", ".NET 10", "Entity Framework Core" };
-    public string[] Architecture => new[] { "N-Tier", "Repository Pattern", "Unit of Work", "DTO", "SOLID" };
-    public string[] AlsoKnows => new[] { "Node.js", "NestJS", "React", "PostgreSQL", "MongoDB" };
-    public string CurrentFocus => "Designing clean, scalable .NET backend systems";
-    public string FunFact => "I turn coffee into clean architecture ☕";
+    public string Role => "ASP.NET Core Backend Developer";
+
+    public string[] CurrentFocus =>
+    [
+        ".NET 10",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "SQL Server",
+        "REST APIs",
+        "Clean Architecture",
+        "Microservices"
+    ];
+
+    public string[] Architecture =>
+    [
+        "Repository Pattern",
+        "Unit of Work",
+        "N-Tier Architecture",
+        "SOLID",
+        "Dependency Injection",
+        "DTO Pattern"
+    ];
+
+    public string Mission =>
+        "Building scalable, maintainable and production-ready backend systems.";
 }
 ```
 
-I'm a backend-focused developer who builds real-world systems in **ASP.NET Core** — from authentication and authorization to full management platforms — with an emphasis on maintainable, layered architecture.
+---
+
+# 🚀 Featured Projects
+
+## ⚽ Professional Football Management & Statistics System
+
+> Enterprise football management platform developed with modern ASP.NET technologies.
+
+### Highlights
+
+- League Management
+- Team Management
+- Season Management
+- Fixture Generator
+- Match Management
+- Live Statistics
+- Standings
+- Responsive Admin Dashboard
+
+**Tech Stack**
+
+`ASP.NET Core MVC`
+` .NET 10 `
+` Entity Framework Core `
+` SQL Server `
+` Repository Pattern `
+` Unit of Work `
+` DTO Architecture `
+` AutoMapper `
 
 ---
 
-### 🛠️ Tech Stack
+## 🔐 SecureAuth
 
-**Backend & Languages**
+Enterprise Authentication & Authorization System
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Features
 
-**Architecture & Patterns**
+- ASP.NET Core Identity
+- JWT Authentication
+- Refresh Tokens
+- Email Verification
+- Role-Based Authorization
+- Secure Password Hashing
+- User Management
 
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-2E2E2E?style=for-the-badge)
-![Unit of Work](https://img.shields.io/badge/Unit_of_Work-2E2E2E?style=for-the-badge)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-CE1126?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Built with**
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & Tools**
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`.NET 10`
+`ASP.NET Core`
+`Entity Framework Core`
+`SQL Server`
 
 ---
 
-### 🚀 Featured Projects
+## 🚗 Enterprise Rent A Car Management System
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A complete enterprise vehicle rental platform.
 
-**⚽ Football Management & Statistics System**
+### Features
 
-Professional football management and statistics platform built with ASP.NET Core MVC, .NET 10, EF Core, and SQL Server, following Repository Pattern, Unit of Work, and DTO architecture.
+- N-Tier Architecture
+- Repository Pattern
+- AutoMapper
+- Dashboard
+- Vehicle Management
+- Reservation Management
+- Customer Management
+- Reporting
 
-`ASP.NET Core MVC` `.NET 10` `EF Core` `SQL Server`
+**Built with**
 
-</td>
-<td width="50%" valign="top">
-
-**🔐 ASP.NET Core Identity Auth System**
-
-Authentication and authorization system built with .NET 10, JWT, EF Core, and SQL Server, featuring role-based authorization and email verification.
-
-`.NET 10` `JWT` `EF Core` `Identity`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🚗 Enterprise Rent A Car Management System**
-
-Enterprise-grade car rental management system built with ASP.NET Core 10 using N-Tier Architecture, Repository Pattern, AutoMapper, and SOLID principles.
-
-`ASP.NET Core 10` `N-Tier` `AutoMapper` `SOLID`
-
-</td>
-<td width="50%" valign="top">
-
-**📦 Advanced EF Core Store Scenarios**
-
-Real-world store scenarios exploring advanced Entity Framework Core: LINQ, joins, grouping, pagination, relationship management, and query optimization.
-
-`EF Core` `LINQ` `Query Optimization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✈️ Full-Stack Travel Management System**
-
-Tour reservation platform with digital tickets, role-based authentication, and admin dashboards, built end-to-end in ASP.NET Core MVC.
-
-`ASP.NET Core MVC` `Auth` `Admin Dashboard`
-
-</td>
-<td width="50%" valign="top">
-
-**💼 Full-Stack Portfolio Platform**
-
-Modern, responsive portfolio platform showcasing projects, technical skills, and professional experience through a polished interface.
-
-`ASP.NET Core` `Responsive UI`
-
-</td>
-</tr>
-</table>
+`.NET 10`
+`ASP.NET Core`
+`Entity Framework Core`
+`SQL Server`
 
 ---
 
-### 📊 GitHub Stats
+## ✈️ Travel Reservation Platform
+
+Modern travel management platform.
+
+### Features
+
+- Tour Reservations
+- Digital Tickets
+- Admin Dashboard
+- Authentication
+- Category Management
+- Customer Management
+- Responsive Design
+
+**Built with**
+
+`ASP.NET Core MVC`
+`MongoDB`
+`Tailwind CSS`
+
+---
+
+## 🛒 Advanced Entity Framework Core Store
+
+Real-world project created for mastering Entity Framework Core.
+
+### Covers
+
+- Advanced LINQ
+- Complex Queries
+- Grouping
+- Pagination
+- Relationships
+- Joins
+- Performance Optimization
+- Query Projection
+
+---
+
+## 💼 Dynamic Portfolio Platform
+
+Professional portfolio management system.
+
+### Features
+
+- Admin CMS
+- Dynamic Content
+- Projects
+- Experience
+- Skills
+- Contact Management
+- Responsive Interface
+
+---
+
+# 🛠 Tech Stack
+
+## 💙 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,nodejs,express,nestjs"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
+
+- SQL Server
+- Entity Framework Core
+- LINQ
+- Prisma
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind"/>
+
+</p>
+
+---
+
+## ☁ Cloud & Dev Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,git,github,visualstudio,vscode,postman"/>
+
+</p>
+
+Swagger • AutoMapper • REST API • JWT • Identity
+
+---
+
+# 🏗 Backend Expertise
+
+```text
+✔ ASP.NET Core MVC
+
+✔ ASP.NET Web API
+
+✔ .NET 10
+
+✔ Entity Framework Core
+
+✔ SQL Server
+
+✔ LINQ
+
+✔ Clean Architecture
+
+✔ Repository Pattern
+
+✔ Unit of Work
+
+✔ SOLID Principles
+
+✔ N-Tier Architecture
+
+✔ DTO Pattern
+
+✔ AutoMapper
+
+✔ RESTful APIs
+
+✔ Authentication
+
+✔ Authorization
+
+✔ ASP.NET Core Identity
+
+✔ JWT Authentication
+
+✔ Middleware
+
+✔ Dependency Injection
+
+✔ Validation
+
+✔ Exception Handling
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilanderegozu&theme=github_dark" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dilanderegozu&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilanderegozu&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dilanderegozu&theme=github_dark" width="49%"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dilanderegozu&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilanderegozu&theme=react-dark&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilanderegozu&theme=github_dark"/>
+
 </div>
 
 ---
 
-### 🌱 Currently
-
-- 🔨 Building production-style systems with **ASP.NET Core** & **.NET 10**
-- 🏗️ Sharpening **N-Tier / Clean Architecture** and design patterns (Repository, Unit of Work, DTO)
-- 📚 Going deeper into **EF Core** query optimization and relationship modeling
-- ☁️ Exploring **Azure** cloud services
-- 🤝 Open to **collaborations** and interesting backend-focused projects
-
----
+# 🌍 Contribution Graph
 
 <div align="center">
 
-### 💬 Let's connect and build something great
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilanderegozu&theme=github-compact&hide_border=true"/>
 
 </div>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Enterprise ASP.NET Core Applications
+- 🏗 Designing Scalable Backend Architectures
+- ⚡ Advanced Entity Framework Core
+- ☁ Microsoft Azure
+- 🔐 Security & Authentication
+- 🧩 Microservices Architecture
+- 📈 Performance Optimization
+- 🧪 Testing & Clean Code
+
+---
+
+# 📚 Currently Learning
+
+```text
+Microservices
+
+Docker
+
+Azure Cloud
+
+CI/CD Pipelines
+
+Redis
+
+Caching
+
+Message Brokers
+
+Domain Driven Design
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to collaborations, backend projects and exciting opportunities.
+
+<a href="mailto:dilan.deregizu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dilan-dereg%C3%B6z%C3%BC-244172340/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/dilanderegozu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+> **"Code is not just written. It is architected."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=140&section=footer"/>
+
+</div>
+````
